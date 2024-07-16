@@ -7,5 +7,6 @@ public class Lab003 {
         /**
          * fr documentation purpose
          */
+        System.out.println("hello");
     }
 }
