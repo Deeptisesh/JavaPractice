@@ -5,6 +5,7 @@ public class Lab15 {
     public static void main(String[] args) {
         // data types
             // primitive
+                char c='c';
                 //boolean
                 boolean is_married=true;
 
@@ -21,6 +22,8 @@ public class Lab15 {
         double d=323.123;
             //non primitive
                 String p="asdas";
+                String o="p";
+
 
 
     }

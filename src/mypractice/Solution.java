@@ -25,7 +25,7 @@ Complete the stub code provided in your editor to print whether or not  is weird
 //            scanner.close();
 
 
-            if(N/2!=0){
+            if(N%2!=0){
 
                 System.out.println("Weird");
             }else{
