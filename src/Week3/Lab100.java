@@ -14,6 +14,7 @@ public class Lab100 {
             default:
                 throw new IllegalStateException("unexpected value"+code);
         };
+        System.out.println(val);
 
     }
 }
