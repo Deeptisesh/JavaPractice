@@ -21,10 +21,6 @@ public class SecondHighestSalaryArray {
             // Second Highest salary
             System.out.println("Second Highest salary is: " + salaries[salaries.length - 2]);
 
-
-
-
-
             System.out.println(Arrays.toString(salaries));
 
 
